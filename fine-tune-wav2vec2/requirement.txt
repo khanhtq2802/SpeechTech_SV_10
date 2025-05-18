@@ -1,0 +1,21 @@
+librosa
+matplotlib
+datasets[audio]
+gradio
+transformers
+ipywidgets
+pyannote.audio
+gdown
+soundfile
+pandas
+
+# for voice-gender-classifier
+torch
+torchaudio
+pysoundfile
+huggingface_hub
+safetensors
+
+scikit-learn
+peft
+speechbrain
